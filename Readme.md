@@ -45,7 +45,9 @@ Train/test split: 70% training, 30% testing.
 **Linear Regression:**
     Excellent performance with minimal overfitting.
     Best balance of simplicity and accuracy.
+    
 **Ridge Regression:**
     Robust and stable, with no overfitting.
+    
 **Random Forest:**
     Slight overfitting but good at handling outliers and nonlinear patterns.
